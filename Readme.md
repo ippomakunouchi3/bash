@@ -4,6 +4,7 @@
 ------
 
 1. Display the contents of the root folder.
+->ls
 
 2. List details of files and folders.
 
