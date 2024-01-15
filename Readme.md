@@ -89,6 +89,8 @@
 # head and tail
 ----------------
 
+** to be performed on sample_file.txt**
+
 1. Display the first 5 lines using head
 
 2. Display the last 3 lines using tail
@@ -99,6 +101,8 @@
 
 # grep task
 -------------
+
+** to be performed on example_log.txt**
 
 1. Find lines containing "ERROR"
 
