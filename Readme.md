@@ -1,32 +1,35 @@
 # Bash Task
 
-**LS**
+# LS
+------
 
-# Display the contents of the root folder
+1. Display the contents of the root folder[^1].
 
-# List details of files and folders
+2. List details of files and folders[^2].
 
-# List contents of the documents folder
+3. List contents of the documents folder[^3].
 
-# Recursively list all files and folders
+4. Recursively list all files and folders[^4].
 
-# List files by modification time
+5. List files by modification time[^5].
 
-# List all files, including hidden ones
+6. List all files, including hidden ones[^6].
 
-# Recursively list all files and folders with details including hidden ones
+7. Recursively list all files and folders with details including hidden ones[^7].
 
-# List files in reverse order
+8. List files in reverse order[^8].
 
-# List files by size
+9. List files by size[^9].
 
-# List all files with a .jpg extension
+10. List all files with a .jpg extension[^10].
 
-# List files starting with 'pic'
+11. List files starting with 'pic'[^11].
+
 
 ============================================================
 
-**CP, MV ,RM**
+# CP, MV ,RM
+-------------
 
 # Copy README.md to the documents folder
 
@@ -48,8 +51,8 @@
 
 ===========================================================================
 
-## CHMOD
-
+# CHMOD
+---------
 # Display the current permissions of README.md
 
 # Give read and write permissions to the owner of README.md
@@ -82,8 +85,8 @@
 
 =======================================================================
 
-## head and tail
-
+# head and tail
+----------------
 # Display the first 5 lines using head
 
 # Display the last 3 lines using tail
@@ -92,8 +95,8 @@
 
 ========================================================================
 
-## grep task
-
+# grep task
+-------------
 # Find lines containing "ERROR"
 
 # Count the number of occurrences of "INFO"
