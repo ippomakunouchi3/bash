@@ -3,27 +3,27 @@
 # LS
 ------
 
-1. Display the contents of the root folder[^1].
+1. Display the contents of the root folder.
 
-2. List details of files and folders[^2].
+2. List details of files and folders.
 
-3. List contents of the documents folder[^3].
+3. List contents of the documents folder.
 
-4. Recursively list all files and folders[^4].
+4. Recursively list all files and folders.
 
-5. List files by modification time[^5].
+5. List files by modification time.
 
-6. List all files, including hidden ones[^6].
+6. List all files, including hidden ones.
 
-7. Recursively list all files and folders with details including hidden ones[^7].
+7. Recursively list all files and folders with details including hidden ones.
 
-8. List files in reverse order[^8].
+8. List files in reverse order.
 
-9. List files by size[^9].
+9. List files by size.
 
-10. List all files with a .jpg extension[^10].
+10. List all files with a .jpg extension.
 
-11. List files starting with 'pic'[^11].
+11. List files starting with 'pic'.
 
 
 ============================================================
@@ -31,74 +31,78 @@
 # CP, MV ,RM
 -------------
 
-# Copy README.md to the documents folder
+1. Copy README.md to the documents folder
 
-# Copy all .jpg files to the backup folder 
+2. Copy all .jpg files to the backup folder
 
-# Copy the entire src folder to the backup folder
+3. Copy the entire src folder to the backup folder
 
-# Display the contents of the backup folder after copying
+4. Display the contents of the backup folder after copying
 
-# Move backup.txt to the documents folder and rename it
+5. Move backup.txt to the documents folder and rename it
 
-# Move the entire src folder to the images folder
+6. Move the entire src folder to the images folder
 
-# Display the contents of the images folder after moving
+7. Display the contents of the images folder after moving
 
-# Remove the copied .jpg files from the backup folder
+8. Remove the copied .jpg files from the backup folder
 
-# Remove the entire backup folder
+9. Remove the entire backup folder
 
 ===========================================================================
 
 # CHMOD
 ---------
-# Display the current permissions of README.md
 
-# Give read and write permissions to the owner of README.md
+1. Display the current permissions of README.md
 
-# Display the updated permissions of README.md
+2. Give read and write permissions to the owner of README.md
 
-# Give read and write permissions to the group of README.md
+3. Display the updated permissions of README.md
 
-# Display the updated permissions of README.md
+4. Give read and write permissions to the group of README.md
 
-# Remove write permission from the owner of README.md
+5. Display the updated permissions of README.md
 
-# Display the updated permissions of README.md
+6. Remove write permission from the owner of README.md
 
-# Give read and execute permissions to others for README.md
+7. Display the updated permissions of README.md
 
-# Display the updated permissions of README.md
+8. Give read and execute permissions to others for README.md
 
-# Set permissions to 664 for images/pic1.jpg
+9. Display the updated permissions of README.md
 
-# Display the updated permissions of images/pic1.jpg
+10. Set permissions to 664 for images/pic1.jpg
 
-# Set permissions to 777 for images/pic2.jpg
+11. Display the updated permissions of images/pic1.jpg
 
-# Display the updated permissions of images/pic2.jpg
+12. Set permissions to 777 for images/pic2.jpg
 
-# Set permissions to 600 for documents/backup_document.txt
+13. Display the updated permissions of images/pic2.jpg
 
-# Display the updated permissions of documents/backup_document.txt
+14. Set permissions to 600 for documents/backup_document.txt
+
+15. Display the updated permissions of documents/backup_document.txt
 
 =======================================================================
 
 # head and tail
 ----------------
-# Display the first 5 lines using head
 
-# Display the last 3 lines using tail
+1. Display the first 5 lines using head
 
-# Display from line 3 to line 7
+2. Display the last 3 lines using tail
+
+3. Display from line 3 to line 7
 
 ========================================================================
 
 # grep task
 -------------
-# Find lines containing "ERROR"
 
-# Count the number of occurrences of "INFO"
+1. Find lines containing "ERROR"
 
-# Display lines with timestamps between 12:00 and 13:00
+2. Count the number of occurrences of "INFO"
+
+3. Display lines with timestamps between 12:00 and 13:00
+
